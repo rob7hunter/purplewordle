@@ -6,8 +6,8 @@
 ],
 "subs": [
 {
-    "f": "nyt.com/wordle",
-    "r": "X"
+    "f": "\n*nyt.com/wordle",
+    "r": ""
 }
 ]
 }
