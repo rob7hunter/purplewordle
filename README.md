@@ -17,5 +17,5 @@ You may have to allow Purple Wordle to connect to `raw.githubusercontent.com`:
 
 When you finish your Wordle tap `Share` as you normally do, but before tapping on a conversation as you normally would, select Purple Wordle:
 
-<img src="action.jpeg" width="200"/>
+<img src="IMG_7539.jpeg" width="200"/>
 
